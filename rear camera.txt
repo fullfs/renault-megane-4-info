@@ -1,0 +1,9 @@
+installation
+https://www.youtube.com/watch?v=O0ITLCm5nZ0&t=712s
+
+cd /home/firesword/ddt4all
+python3 ddt4all.py
+
+
+как пользоваться ddt4all
+https://www.youtube.com/watch?v=PEd5We65R0g
